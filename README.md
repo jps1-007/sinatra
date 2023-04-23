@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
