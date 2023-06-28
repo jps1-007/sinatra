@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
