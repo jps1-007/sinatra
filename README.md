@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add OBB benchmarks to CI (#7777)
