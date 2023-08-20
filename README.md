@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add bgr hyperparameter (#9139)
