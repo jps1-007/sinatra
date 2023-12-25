@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Expand Model method type hinting (#8279)
