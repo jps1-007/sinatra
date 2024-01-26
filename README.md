@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
