@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add C++ Classify inference example (#6868)
